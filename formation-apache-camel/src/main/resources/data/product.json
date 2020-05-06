@@ -1,19 +1,17 @@
 
-[{
+[
+  {
   "id": 1,
   "libelle": "crayon",
   "origine": "Espagne",
   "description": "crayon d'origine Espagne",
-
   "couleur": ["jaune", "gris", "bleu"]
-
 },
   {
     "id": 2,
     "libelle": "crayon",
     "origine": "Espagne",
     "description": "crayon d'origine Espagne",
-
     "couleur": ["jaune", "gris", "bleu"]
 
   },
@@ -22,9 +20,7 @@
     "libelle": "crayon",
     "origine": "Espagne",
     "description": "crayon d'origine Espagne",
-
     "couleur": ["jaune", "gris", "bleu"]
-
   },
   {
     "id":4,

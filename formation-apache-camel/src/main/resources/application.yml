@@ -7,12 +7,16 @@ server:
 
 # IN
 in:
-  directory: /Users/DEV/indata/
+  directory: /Users/skouandongui/DEV/indata/ # dossier de dépot de fichier
   file:
     filemask: .*.[json|JSON]
+
 
 spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017,localhost:27017
-      database: bdtest
+      database: shopetl
+
+
+
