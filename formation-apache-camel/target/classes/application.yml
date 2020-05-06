@@ -1,0 +1,18 @@
+camel:
+  springboot:
+    name: formation-apache-camel
+
+server:
+  port: 0
+       
+# IN
+in:
+  directory: /Users/skouandongui/DEV/indata/
+  file:
+    filemask: .*.[json|JSON]
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017,localhost:27017
+      database: bdtest

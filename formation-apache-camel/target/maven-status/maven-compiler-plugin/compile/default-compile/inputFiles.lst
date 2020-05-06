@@ -1,0 +1,8 @@
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/mongo/ProductRepository.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/producer/FileRouteBuilder.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/businessterm/product/Product.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/mongo/ServiceProduct.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/PushFileRunner.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/mongo/ServiceProductImpl.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/converter/ExchangeBodyToPriceConverter.java
+/Users/skouandongui/DEV/formation/ETL/formation-apache-camel/src/main/java/com/inti/formation/example/jsonfile/converter/ExchangeBodyConverter.java

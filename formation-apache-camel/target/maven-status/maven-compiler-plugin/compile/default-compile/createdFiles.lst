@@ -1,0 +1,8 @@
+com/inti/formation/example/jsonfile/converter/ExchangeBodyConverter.class
+com/inti/formation/example/jsonfile/businessterm/product/Product.class
+com/inti/formation/example/jsonfile/mongo/ServiceProductImpl.class
+com/inti/formation/example/jsonfile/PushFileRunner.class
+com/inti/formation/example/jsonfile/producer/FileRouteBuilder.class
+com/inti/formation/example/jsonfile/mongo/ServiceProduct.class
+com/inti/formation/example/jsonfile/mongo/ProductRepository.class
+com/inti/formation/example/jsonfile/converter/ExchangeBodyToPriceConverter.class
